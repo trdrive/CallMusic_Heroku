@@ -1,4 +1,4 @@
-# Deploy Calls Music to Heroku
+# Deploy Calls Music Beta to Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/suprojects/CallsMusicHeroku/)
 
