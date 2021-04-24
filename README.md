@@ -4,4 +4,4 @@
 
 # Main repository
 
-[Click here](https://github.com/callsmusic/callsmusic-2)
+[Click here](https://github.com/trdrive/TRCallsmusic)
